@@ -1,0 +1,26 @@
+.internship{
+ background-color: #1387812a;
+ margin-left: 140px;
+ padding: 60px 0px;
+
+
+}
+.internship-exp{
+    padding: 60px 0px;
+}
+.internship-exp h2{
+    color: #1e1e2c;
+    font-weight: bold;
+}
+
+.internship hr{
+    color: #138781;
+    width: 400px;
+    margin: 10px auto;
+}
+.internship-exp .vertical-timeline-element-title{
+    color: #1e1e2c;
+}
+.internship-exp .vertical-timeline-element-subtitle{
+    color: rgba(255, 255, 255, 0.658);
+}
