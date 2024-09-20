@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d5180f1.css",
+    "main.js": "/static/js/main.e890bba6.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/GauravSinghResume.pdf": "/static/media/GauravSinghResume.d3cdb1885403db4ad6ca.pdf",
+    "static/media/profile.jpeg": "/static/media/profile.7ccb1ea0b654e259d6b1.jpeg",
+    "index.html": "/index.html",
+    "main.6d5180f1.css.map": "/static/css/main.6d5180f1.css.map",
+    "main.e890bba6.js.map": "/static/js/main.e890bba6.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d5180f1.css",
+    "static/js/main.e890bba6.js"
+  ]
+}
