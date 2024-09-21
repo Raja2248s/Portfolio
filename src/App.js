@@ -7,14 +7,19 @@ import Internship from "./pages/Internship/Internship.js";
 import Projects from "./pages/Projects/Projects.js";
 // import Projects from "./pages/projects/projects";
 import ScrollToTop from "react-scroll-to-top";
+import "react-toastify/dist/ReactToastify.css";
+import MobileNav from "./components/MobileNav/MobileNav.js";
 import { useTheme } from "./context/ThemeContext.js";
 import Techstack from "./pages/TechStack/Techstack";
+import { ToastContainer, toast } from 'react-toastify';
 
 function App() {
   const [theme] = useTheme();
   return (
     <>
       <div id={theme}>
+      <ToastContainer />
+        <MobileNav />
         <Layout />
         <div className="container">
           <About />

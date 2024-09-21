@@ -13,19 +13,17 @@ const About = () => {
           <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
             <h1>About me </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Cupiditate enim culpa ab suscipit, voluptate perferendis rem quas
-              odio aliquam fugiat tempore error consequatur illo similique, esse
-              ea minus quidem quam accusantium? Molestias, assumenda voluptatum
-              repellendus officiis dolor accusamus deleniti consectetur
-              voluptatibus beatae qui maxime quas porro, maiores omnis magni
-              facere impedit? Ducimus omnis quos aut eveniet, nam reiciendis
-              tempora, quam nisi inventore voluptas iste voluptatibus, modi
-              delectus autem voluptatum? Voluptas molestiae accusamus cum
-              provident unde amet accusantium consectetur at reprehenderit
-              praesentium, reiciendis cumque, nihil officiis quibusdam
-              repellendus consequatur. Eveniet autem facilis ipsa temporibus
-              sapiente aliquid accusamus ipsum ipsam odio ut?
+              I’m Gaurav Singh, a dedicated Computer Science student at Shri
+              Ramdeobaba College of Engineering and Management, with a passion
+              for full-stack development and cutting-edge technologies. Through
+              internships like my stint as a Java Developer at Infosys
+              Springboard, I've gained hands-on experience in building dynamic
+              web applications using frameworks like AngularJS, Java Spring
+              Boot, and MongoDB. My projects range from creating secure,
+              real-time chat applications to developing interactive games using
+              Python. With strong problem-solving skills and a drive to
+              innovate, I’m always eager to take on new challenges and create
+              impactful digital solutions.
             </p>
           </div>
         </div>

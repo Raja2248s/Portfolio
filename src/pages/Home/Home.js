@@ -51,7 +51,15 @@ const Home = () => {
             />
           </motion.h1>
           <div className="home-buttons">
-            <button className="btn btn-hire">Hire Me</button>
+            <a
+              className="btn btn-hire"
+              href="https://api.whatsapp.com/send?phone=9175094175"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Hire me
+            </a>
+
             <a href={resume} download="GauravResume.pdf" className="btn btn-cv">
               My resume
             </a>
